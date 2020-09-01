@@ -1,8 +1,5 @@
 ### Hello World !! Welcome to My GitHub Repos 👋
 
-<!--
-**himanjanpati/himanjanpati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 <a href = "https://user-images.githubusercontent.com/23727056/87433896-78ae9700-c607-11ea-9ca6-9cdbe3f67998.jpg">
   <img src="https://user-images.githubusercontent.com/23727056/87433896-78ae9700-c607-11ea-9ca6-9cdbe3f67998.jpg">
   </a>
