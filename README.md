@@ -11,6 +11,3 @@
 - 🤔 I’m looking for help with SPFx webparts and Graph API
 - 💬 Ask me about SharePoint online and MS 365 
 - 📫 How to reach me: Feel free to connect me over email Himanjan.pati@outlook.com
-
-#Skills
-
