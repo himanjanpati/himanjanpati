@@ -19,7 +19,7 @@
 <img align="left" alt="MS Teams" width="26px" src="https://raw.githubusercontent.com/sempostma/office365-icons/master/png/256/teams.png"/>
 <img align="left" alt="Power Automate" width="28px" src="https://static.wikia.nocookie.net/logopedia/images/1/11/Microsoft_Power_Automate_%282020%29.svg/revision/latest?cb=20200929195936"/>
 <img align="left" alt="Power Apps" width="28px" src="https://static.wikia.nocookie.net/logopedia/images/4/44/Microsoft_Power_Apps_%282020%29.svg/revision/latest?cb=20200929195935"/>
-<img align="left" alt="MS Azure" width="27px" src="https://raw.githubusercontent.com/himanjanpati/himanjanpati/master/microsoft-azure-icon.svg"/>
+<img align="left" alt="MS Azure" width="30px" src="https://raw.githubusercontent.com/himanjanpati/himanjanpati/master/microsoft-azure-icon.svg"/>
 <img align="left" alt="Azure Function" width="33px" src="https://raw.githubusercontent.com/himanjanpati/himanjanpati/master/azure-functions-icon.svg"/>
 <img align="left" alt="Azure DevOps" width="30px" src="https://raw.githubusercontent.com/benc-uk/icon-collection/master/azure-icons/Azure-DevOps.svg"/>
 <img align="left" alt="VS Code" width="26px" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png"/>
