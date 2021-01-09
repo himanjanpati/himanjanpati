@@ -23,7 +23,7 @@
 <img align="left" alt="Azure Function" width="33px" src="https://raw.githubusercontent.com/himanjanpati/himanjanpati/master/azure-functions-icon.svg"/>
 <img align="left" alt="Azure DevOps" width="30px" src="https://raw.githubusercontent.com/benc-uk/icon-collection/master/azure-icons/Azure-DevOps.svg"/>
 <img align="left" alt="VS Code" width="26px" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png"/>
-<img align="left" alt="Visual Studio" width="46px" src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png"/>
+<img align="left" alt="Visual Studio" width="27px" src="https://raw.githubusercontent.com/himanjanpati/himanjanpati/master/iconfinder_visual_studio_6929231.png"/>
 <img align="left" alt="JavaScript" width="25px" src="https://raw.githubusercontent.com/himanjanpati/himanjanpati/master/javascript.svg" />
 <img align="left" alt="CSS" width="30px" src="https://raw.githubusercontent.com/himanjanpati/himanjanpati/master/iconfinder_121-css3_4202020.png" />
 <img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/himanjanpati/himanjanpati/master/html5-icon.svg"/>
