@@ -14,4 +14,6 @@
 
 👨🏻‍💻 Languages and Tools:
 
-<img align="left" alt="MS SharePoint" width="22px" src="https://raw.githubusercontent.com/sempostma/office365-icons/master/png/256/sharepoint.png"/>
+<img align="left" alt="MS SharePoint" width="26px" src="https://raw.githubusercontent.com/sempostma/office365-icons/master/png/256/sharepoint.png"/>
+<img align="left" alt="MS SharePoint" width="26px" src="https://raw.githubusercontent.com/sempostma/office365-icons/master/png/256/teams.png"/>
+
