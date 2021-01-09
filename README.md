@@ -28,7 +28,7 @@
 <img align="left" alt="CSS" width="30px" src="https://raw.githubusercontent.com/himanjanpati/himanjanpati/master/iconfinder_121-css3_4202020.png" />
 <img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/himanjanpati/himanjanpati/master/html5-icon.svg"/>
 <img align="left" alt="Bootstrap" width="32px" src="https://raw.githubusercontent.com/himanjanpati/himanjanpati/master/bootstrap.svg"/>
-<img align="left" alt="React JS" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"/>
+<img align="left" alt="React JS" width="44px" src="https://raw.githubusercontent.com/himanjanpati/himanjanpati/master/iconfinder_React.js_logo_1174949.png"/>
 <img align="left" alt="jQuery" width="30px" src="https://raw.githubusercontent.com/himanjanpati/himanjanpati/master/iconfinder_jquery_3069646.png"/>
 <img align="left" alt="Docker" width="40px" src="https://raw.githubusercontent.com/himanjanpati/himanjanpati/master/docker-icon.svg"/>
 <img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/himanjanpati/himanjanpati/master/kubernetes-icon.svg"/>
