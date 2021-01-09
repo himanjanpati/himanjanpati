@@ -14,7 +14,7 @@
 
 👨🏻‍💻 Skills:
 
-<img align="left" alt="MS O365" width="23px" src="https://raw.githubusercontent.com/himanjanpati/himanjanpati/master/office-365.svg"/>
+<img align="left" alt="MS O365" width="22px" src="https://raw.githubusercontent.com/himanjanpati/himanjanpati/master/office-365.svg"/>
 <img align="left" alt="MS SharePoint" width="26px" src="https://raw.githubusercontent.com/sempostma/office365-icons/master/png/256/sharepoint.png"/>
 <img align="left" alt="MS Teams" width="26px" src="https://raw.githubusercontent.com/sempostma/office365-icons/master/png/256/teams.png"/>
 <img align="left" alt="Power Automate" width="28px" src="https://static.wikia.nocookie.net/logopedia/images/1/11/Microsoft_Power_Automate_%282020%29.svg/revision/latest?cb=20200929195936"/>
@@ -28,7 +28,7 @@
 <img align="left" alt="CSS" width="30px" src="https://raw.githubusercontent.com/himanjanpati/himanjanpati/master/iconfinder_121-css3_4202020.png" />
 <img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/himanjanpati/himanjanpati/master/html5-icon.svg"/>
 <img align="left" alt="Bootstrap" width="32px" src="https://raw.githubusercontent.com/himanjanpati/himanjanpati/master/bootstrap.svg"/>
-<img align="left" alt="React JS" width="42px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"/>
+<img align="left" alt="React JS" width="44px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"/>
 <img align="left" alt="jQuery" width="26px" src="https://raw.githubusercontent.com/himanjanpati/himanjanpati/master/jquery-icon.svg"/>
 <img align="left" alt="Docker" width="40px" src="https://raw.githubusercontent.com/himanjanpati/himanjanpati/master/docker-icon.svg"/>
 <img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/himanjanpati/himanjanpati/master/kubernetes-icon.svg"/>
