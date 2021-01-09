@@ -19,13 +19,13 @@
 <img align="left" alt="MS Teams" width="26px" src="https://raw.githubusercontent.com/sempostma/office365-icons/master/png/256/teams.png"/>
 <img align="left" alt="Power Automate" width="28px" src="https://static.wikia.nocookie.net/logopedia/images/1/11/Microsoft_Power_Automate_%282020%29.svg/revision/latest?cb=20200929195936"/>
 <img align="left" alt="Power Apps" width="28px" src="https://static.wikia.nocookie.net/logopedia/images/4/44/Microsoft_Power_Apps_%282020%29.svg/revision/latest?cb=20200929195935"/>
-<img align="left" alt="MS Azure" width="32px" src="https://raw.githubusercontent.com/himanjanpati/himanjanpati/master/azure.svg"/>
+<img align="left" alt="MS Azure" width="34px" src="https://raw.githubusercontent.com/himanjanpati/himanjanpati/master/azure.svg"/>
 <img align="left" alt="Azure Function" width="33px" src="https://raw.githubusercontent.com/himanjanpati/himanjanpati/master/azure-functions-icon.svg"/>
 <img align="left" alt="Azure DevOps" width="30px" src="https://raw.githubusercontent.com/benc-uk/icon-collection/master/azure-icons/Azure-DevOps.svg"/>
 <img align="left" alt="VS Code" width="26px" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png"/>
 <img align="left" alt="Visual Studio" width="46px" src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png"/>
 <img align="left" alt="JavaScript" width="25px" src="https://raw.githubusercontent.com/himanjanpati/himanjanpati/master/javascript.svg" />
-<img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/himanjanpati/himanjanpati/master/kisspng-css3-cascading-style-sheets-computer-icons-html-emblem-5ac245f0d27847.8044648115226813288621.jpg" />
+<img align="left" alt="CSS" width="23px" src="https://raw.githubusercontent.com/himanjanpati/himanjanpati/master/iconfinder_121-css3_4202020.png" />
 <img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/himanjanpati/himanjanpati/master/html5-icon.svg"/>
 <img align="left" alt="Bootstrap" width="26px" src="https://raw.githubusercontent.com/himanjanpati/himanjanpati/master/bootstrap.svg"/>
 <img align="left" alt="React JS" width="42px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"/>
