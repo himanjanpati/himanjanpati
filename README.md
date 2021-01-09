@@ -12,8 +12,9 @@
 - 💬 Ask me about SharePoint online and MS 365 
 - 📫 How to reach me: Feel free to connect me over email Himanjan.pati@outlook.com
 
-👨🏻‍💻 Languages and Tools:
+👨🏻‍💻 Skills:
 
 <img align="left" alt="MS SharePoint" width="26px" src="https://raw.githubusercontent.com/sempostma/office365-icons/master/png/256/sharepoint.png"/>
 <img align="left" alt="MS SharePoint" width="26px" src="https://raw.githubusercontent.com/sempostma/office365-icons/master/png/256/teams.png"/>
+<img align="left" alt="MS SharePoint" width="26px" src="https://raw.githubusercontent.com/himanjanpati/himanjanpati/master/azure.svg"/>
 
