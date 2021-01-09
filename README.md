@@ -13,4 +13,4 @@
 - 📫 How to reach me: Feel free to connect me over email Himanjan.pati@outlook.com
 
 👨🏻‍💻 Languages and Tools
-[https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white]
+<img align="left" alt="MS SharePoint" src="https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white"/>]
