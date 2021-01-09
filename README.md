@@ -20,17 +20,17 @@
 <img align="left" alt="Power Automate" width="28px" src="https://static.wikia.nocookie.net/logopedia/images/1/11/Microsoft_Power_Automate_%282020%29.svg/revision/latest?cb=20200929195936"/>
 <img align="left" alt="Power Apps" width="28px" src="https://static.wikia.nocookie.net/logopedia/images/4/44/Microsoft_Power_Apps_%282020%29.svg/revision/latest?cb=20200929195935"/>
 <img align="left" alt="MS Azure" width="30px" src="https://raw.githubusercontent.com/himanjanpati/himanjanpati/master/azure.svg"/>
-<img align="left" alt="Azure Function" width="26px" src="https://raw.githubusercontent.com/himanjanpati/himanjanpati/master/azure-functions-icon.svg"/>
+<img align="left" alt="Azure Function" width="35px" src="https://raw.githubusercontent.com/himanjanpati/himanjanpati/master/azure-functions-icon.svg"/>
 <img align="left" alt="Azure DevOps" width="30px" src="https://raw.githubusercontent.com/benc-uk/icon-collection/master/azure-icons/Azure-DevOps.svg"/>
 <img align="left" alt="VS Code" width="26px" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png"/>
 <img align="left" alt="Visual Studio" width="44px" src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png"/>
-<img align="left" alt="JavaScript" width="21px" src="https://raw.githubusercontent.com/himanjanpati/himanjanpati/master/clipart1504620.png" />
+<img align="left" alt="JavaScript" width="25px" src="https://raw.githubusercontent.com/himanjanpati/himanjanpati/master/javascript.svg" />
 <img align="left" alt="CSS" width="26px" src="https://raw.githubusercontent.com/himanjanpati/himanjanpati/master/css3.svg" />
 <img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/himanjanpati/himanjanpati/master/html5-icon.svg"/>
 <img align="left" alt="Bootstrap" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"/>
 <img align="left" alt="React JS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"/>
 <img align="left" alt="jQuery" width="26px" src="https://raw.githubusercontent.com/himanjanpati/himanjanpati/master/jquery-icon.svg"/>
-<img align="left" alt="Docker" width="26px" src="https://raw.githubusercontent.com/himanjanpati/himanjanpati/master/docker-icon.svg"/>
+<img align="left" alt="Docker" width="40px" src="https://raw.githubusercontent.com/himanjanpati/himanjanpati/master/docker-icon.svg"/>
 <img align="left" alt="Kubernetes" width="26px" src="https://raw.githubusercontent.com/himanjanpati/himanjanpati/master/kubernetes-icon.svg"/>
 
 
