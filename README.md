@@ -16,17 +16,19 @@
 
 <img align="left" alt="MS SharePoint" width="26px" src="https://raw.githubusercontent.com/sempostma/office365-icons/master/png/256/sharepoint.png"/>
 <img align="left" alt="MS Teams" width="26px" src="https://raw.githubusercontent.com/sempostma/office365-icons/master/png/256/teams.png"/>
-<img align="left" alt="Power Automate" width="40px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--Ki8Uj-wt--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/63tebge261ktiw5qqh9t.png"/>
-<img align="left" alt="Power Apps" width="26px" src=""/>
+<img align="left" alt="Power Automate" width="28px" src="https://static.wikia.nocookie.net/logopedia/images/1/11/Microsoft_Power_Automate_%282020%29.svg/revision/latest?cb=20200929195936"/>
+<img align="left" alt="Power Apps" width="28px" src="https://static.wikia.nocookie.net/logopedia/images/4/44/Microsoft_Power_Apps_%282020%29.svg/revision/latest?cb=20200929195935"/>
 <img align="left" alt="MS Azure" width="26px" src="https://raw.githubusercontent.com/himanjanpati/himanjanpati/master/azure.svg"/>
 <img align="left" alt="Azure DevOps" width="26px" src="https://raw.githubusercontent.com/benc-uk/icon-collection/master/azure-icons/Azure-DevOps.svg"/>
 <img align="left" alt="VS Code" width="26px" src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png"/>
 <img align="left" alt="Visual Studio" width="40px" src="https://1000logos.net/wp-content/uploads/2020/08/Visual-Studio-Logo.png"/>
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/himanjanpati/himanjanpati/master/clipart1504620.png" />
+<img align="left" alt="JavaScript" width="23px" src="https://raw.githubusercontent.com/himanjanpati/himanjanpati/master/clipart1504620.png" />
+<img align="left" alt="CSS" width="23px" src="https://ucarecdn.com/f49e8fc4-876f-49ef-934f-89812fc4125e/" />
+<img align="left" alt="HTML" width="26px" src="https://banner2.cleanpng.com/20180619/pro/kisspng-html-logo-canvas-element-javascript-murugan-5b2930919050b0.0825629615294260655911.jpg"/>
 <img align="left" alt="Bootstrap" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Bootstrap_logo.svg"/>
-<img align="left" alt="React JS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"/>
-<img align="left" alt="jQuery" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"/>
-<img align="left" alt="React JS" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"/>
+<img align="left" alt="React JS" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"/>
+<img align="left" alt="jQuery" width="26px" src="https://favpng.com/png_view/jquery-blue-symbol-sphere-logo-png/bWVrsKqh"/>
+
 
 
 
