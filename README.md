@@ -11,3 +11,6 @@
 - 🤔 I’m customizing various modern sharepoint sites with use of SPFx webparts and Graph API
 - 💬 Ask me about SharePoint online and MS 365 
 - 📫 How to reach me: Feel free to connect me over email Himanjan.pati@outlook.com
+
+👨🏻‍💻 Languages and Tools
+[https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white]
